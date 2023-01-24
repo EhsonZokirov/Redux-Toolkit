@@ -12,4 +12,4 @@
 # Как установить пакеты Redux Toolkit ?
 > npm install @reduxjs/toolkit react-redux
 
->> yarn add @reduxjs/toolkit react-redux
+> yarn add @reduxjs/toolkit react-redux
