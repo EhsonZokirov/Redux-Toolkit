@@ -31,5 +31,4 @@
   > более простые неизменяемые обновления с обычным мутативным кодом, например state.todos[3].completed = true.
 
 - createSlice()
-  > createSlice(): accepts an object of reducer functions, a slice name, and an initial state value, and
-  > automatically generates a slice reducer with corresponding action creators and action types.
+  > createSlice(): принимает объект функций редуктора, имя среза и значение начального состояния и автоматически генерирует редуктор слайса с соответствующими создателями действий и типами действий.
