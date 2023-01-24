@@ -9,7 +9,7 @@
 # Redux - в реальной жизни !
 ![Redux](./src/images/DISPATCH.png)
 
-# Как установить пакеты Redux Toolkit ?
+# Как установить пакеты Redux Toolkit в свой App.js ?
 > npm install @reduxjs/toolkit react-redux
 
 > yarn add @reduxjs/toolkit react-redux
