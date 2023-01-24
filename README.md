@@ -5,3 +5,6 @@
 
 # Какую проблему решает Redux ?
 ![Redux](./src/images/REDUX1.png)
+
+# Redux - в реальной жизни !
+![Redux](./src/images/DISPATCH.png)
