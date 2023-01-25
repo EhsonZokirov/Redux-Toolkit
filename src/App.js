@@ -1,14 +1,12 @@
 import React from "react";
 // import { Route, Routes } from "react-router";
 import "./App.css";
-// import Counter from "./counter/Counter";
-import CounterSlice from "./counter/CounterSlice";
-
+import { Counter } from "./Containers/counter/Counter";
 function App() {
   return (
     <div className="container mx-auto">
-      <CounterSlice />
-      {/* <Counter/> */}
+      <Counter />
+
     </div>
   );
 }
